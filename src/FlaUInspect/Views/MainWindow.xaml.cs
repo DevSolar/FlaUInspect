@@ -86,5 +86,16 @@ namespace FlaUInspect.Views
                 e.Handled = true;
             }
         }
+        private void InvokePatternActionHandler(object sender, RoutedEventArgs e)
+        {
+            DetailViewModel vm = (DetailViewModel)((Button)sender).DataContext;
+            if (vm.ActionToExecute != null)
+            {
+                Task.Run(() =>
+                {
+                    vm.ActionToExecute();
+                });
+            }
+        }
     }
 }
