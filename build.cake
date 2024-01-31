@@ -49,7 +49,7 @@ Task("Package")
     .IsDependentOn("Build")
     .Does(() =>
 {
-    var version = "1.3.0";
+    var version = "1.3.1";
     var tempDir = artifactDir.Combine("build-temp");
     CleanDirectory(tempDir);
 

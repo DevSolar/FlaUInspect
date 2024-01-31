@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.1 (2024-01-31)
+
+### Enhancements
+  * Merged stability fixes by Thor Irgens
+  * Merged config file patch by Florian Reichert (Jteve-Sobs)
+
 ## 1.3.0 (2021-04-08)
 
 ### Enhancements
