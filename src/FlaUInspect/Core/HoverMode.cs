@@ -74,7 +74,7 @@ namespace FlaUInspect.Core
                 {
                     Console.WriteLine($"Exception: {ex.Message}");
                 }
-                catch (COMException cex)
+                catch (COMException /*cex*/)
                 {
                     _mv.ComExceptionDetected = true;
                     //MessageBox.Show(cex.Message, "DispatcherTimeTick caught COM exception. Please refresh inspector", MessageBoxButton.OK, MessageBoxImage.Exclamation);
