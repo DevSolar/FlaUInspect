@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.1 (2024-02-01)
+
+### Enhancements
+  * Merged pull request by user Jteve-Sobs that remembers selected mode
+    and version.
+
 ## 1.3.0 (2021-04-08)
 
 ### Enhancements
