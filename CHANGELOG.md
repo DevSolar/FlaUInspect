@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.3 (2024-02-01)
+
+### Enhancements
+  * Merged pull request by Jeremy Farmer that allows calling Invoke()
+    from FlaUInspect.
+
 ## 1.3.2 (2024-02-01)
 
 ### Enhancements
