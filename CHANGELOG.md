@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.2 (2024-02-01)
+
+### Enhancements
+  * Merged pull request by Thor Irgens that fixes some stability issues.
+
 ## 1.3.1 (2024-02-01)
 
 ### Enhancements
