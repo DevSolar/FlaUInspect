@@ -1,5 +1,17 @@
 # FlaUInspect
 ![FlaUInspect](/FlaUInspect.png?raw=true)
+
+### Notes on this fork
+
+This is a fork of the original FlaUInspect v1.3.0 by Roman Roemer (https://github.com/FlaUI/FlaUInspect). I applied
+three of that project's open pull requests, as it seems Roman is no longer working on the project, labeling the result
+FlaUInspect v1.3.3. This is neither "official" nor supported, just provided as-is.
+
+A more modern, refactored alternative is kDg.FlaUInspect (a.k.a. FlaUInspect v2.0+), available at
+(https://github.com/dualbios/kDg.FlaUInspect). I suggest you use that version instead of this one.
+
+Martin
+
 ### Build
 | What | Info / Link |
 | ---- | ----- |
